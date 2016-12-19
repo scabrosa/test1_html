@@ -1,0 +1,21 @@
+body  /*targets the whole html body*/
+{ 
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.text-muted {
+	color: #BCBBBB;
+} 
+.title-super {
+	font-size: 50px;
+}
+.text-thin {
+	font-weight: 100px;
+}
+.title-logo {
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
